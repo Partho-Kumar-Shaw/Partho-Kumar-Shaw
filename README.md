@@ -155,16 +155,16 @@ Built using:
 <div align="center">
 
 <a href="https://github.com/Partho-Kumar-Shaw">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Partho-Kumar-Shaw&repo=YOUR_REPO_NAME&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Partho-Kumar-Shaw&repo=Yboom-blockers-games&theme=default&hide_border=true" />
 </a>
 
 <a href="https://github.com/Partho-Kumar-Shaw">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Partho-Kumar-Shaw&repo=YOUR_SECOND_REPO&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Partho-Kumar-Shaw&repo=TradeVeda&theme=default&hide_border=true" />
 </a>
 
 </div>
 
-.
+
 
 ---
 
