@@ -6,7 +6,7 @@
 
 <br><br>
 
-<img src="./assets/profile.png" width="170" alt="Partho Kumar Shaw"/>
+<img src="./assets/parth.png.jpeg" width="170" alt="Partho Kumar Shaw"/>
 
 <br><br>
 
@@ -155,7 +155,7 @@ Built using:
 <div align="center">
 
 <a href="https://github.com/Partho-Kumar-Shaw">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Partho-Kumar-Shaw&repo=Yboom-blockers-games&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Partho-Kumar-Shaw&repo=boom-blockers-games&theme=default&hide_border=true" />
 </a>
 
 <a href="https://github.com/Partho-Kumar-Shaw">
