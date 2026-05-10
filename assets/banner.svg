@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+    <style>
+        .text {
+            font-size: 70px;
+            font-weight: 700;
+            font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif;
+        }
+
+        .desc {
+            font-size: 22px;
+            font-weight: 500;
+            font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif;
+        }
+
+        .text, .desc {
+            animation: fadeIn 1.2s ease-in-out forwards;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+    </style>
+
+    <defs>
+        <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#ff0000"></stop>
+            <stop offset="50%" stop-color="#f67280"></stop>
+            <stop offset="100%" stop-color="#ff0000"></stop>
+        </linearGradient>
+    </defs>
+
+    <g transform="translate(600,160) scale(1,1) translate(-600,-160)">
+        <path fill="url(#linear)" opacity="0.4">
+            <animate attributeName="d" dur="20s" repeatCount="indefinite" values="
+                M0 0L 0 240Q 300 280 600 250T 1200 275L 1200 0 Z;
+                M0 0L 0 265Q 300 280 600 260T 1200 250L 1200 0 Z;
+                M0 0L 0 285Q 300 255 600 285T 1200 250L 1200 0 Z;
+                M0 0L 0 240Q 300 280 600 250T 1200 275L 1200 0 Z">
+            </animate>
+        </path>
+
+        <path fill="url(#linear)" opacity="0.4">
+            <animate attributeName="d" dur="20s" repeatCount="indefinite" begin="-10s" values="
+                M0 0L 0 255Q 300 300 600 270T 1200 280L 1200 0 Z;
+                M0 0L 0 270Q 300 240 600 240T 1200 260L 1200 0 Z;
+                M0 0L 0 265Q 300 245 600 270T 1200 285L 1200 0 Z;
+                M0 0L 0 255Q 300 300 600 270T 1200 280L 1200 0 Z">
+            </animate>
+        </path>
+    </g>
+
+    <text x="50%" y="38%" text-anchor="middle" class="text" fill="white">
+        Partho Kumar Shaw
+    </text>
+
+    <text x="50%" y="62%" text-anchor="middle" class="desc" fill="white">
+        Full Stack Developer | AI/ML Engineer
+    </text>
+</svg>
