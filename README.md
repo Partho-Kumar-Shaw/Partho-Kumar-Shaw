@@ -174,11 +174,9 @@ Availability: Open to internships & collaborations
 
 ## Contribution Streak
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Partho-Kumar-Shaw&theme=default&hide_border=true" />
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Partho-Kumar-Shaw&theme=default&hide_border=true" />
+</p>
 
 ---
 
