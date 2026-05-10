@@ -232,13 +232,14 @@ Built using:
 <tr>
 <td>
 <a href="https://github.com/Partho-Kumar-Shaw/boom-blockers-games">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Partho-Kumar-Shaw&repo=boom-blockers-games&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Partho-Kumar-Shaw&repo=boom-blockers-games" />
 </a>
 </td>
 
 <td>
 <a href="https://github.com/Partho-Kumar-Shaw/TradeVeda">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Partho-Kumar-Shaw&repo=TradeVeda&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Partho-Kumar-Shaw&repo=TradeVeda" />
+</a>
 </a>
 </td>
 </tr>
