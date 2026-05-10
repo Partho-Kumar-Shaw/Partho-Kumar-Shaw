@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F4C81,100:5DADE2&height=220&section=header&text=Partho%20Kumar%20Shaw&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Open%20to%20Opportunities&descSize=16&descAlignY=60" />
 
+<br></br>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=24&duration=3000&pause=1200&color=fff&center=true&vCenter=true&width=900&lines=Building+Scalable+Web+Applications;MERN+Stack+Developer;Machine+Learning+Explorer;Problem+Solver+%7C+Fast+Learner" />
 
 <br><br>
@@ -103,6 +105,7 @@ width="360"
 </table>
 
 </div>
+
 ---
 
 ## Professional Summary
@@ -131,7 +134,7 @@ Current CGPA: 7.84
 Graduation: 2028
 Location: India
 Availability: Open to internships & collaborations
-```
+
 
 ---
 
