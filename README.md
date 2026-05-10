@@ -224,22 +224,27 @@ Built using:
 
 ---
 
-## Auto Pinned Repositories
+## Featured Projects
 
 <div align="center">
 
+<table>
+<tr>
+<td>
 <a href="https://github.com/Partho-Kumar-Shaw/boom-blockers-games">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Partho-Kumar-Shaw&repo=boom-blockers-games" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Partho-Kumar-Shaw&repo=boom-blockers-games&theme=default&hide_border=true" />
 </a>
+</td>
 
+<td>
 <a href="https://github.com/Partho-Kumar-Shaw/TradeVeda">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Partho-Kumar-Shaw&repo=TradeVeda" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Partho-Kumar-Shaw&repo=TradeVeda&theme=default&hide_border=true" />
 </a>
+</td>
+</tr>
+</table>
 
 </div>
-
-
-
 
 ---
 
