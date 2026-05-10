@@ -164,11 +164,7 @@ Built using:
 
 </div>
 
-Replace:
-- `YOUR_REPO_NAME`
-- `YOUR_SECOND_REPO`
-
-with your real repositories.
+.
 
 ---
 
@@ -180,17 +176,7 @@ with your real repositories.
   <img src="https://img.shields.io/badge/LeetCode-Add_Profile-orange?style=for-the-badge&logo=leetcode" />
 </a>
 
-<a href="#">
-  <img src="https://img.shields.io/badge/HackerRank-Add_Profile-2EC866?style=for-the-badge&logo=hackerrank" />
-</a>
 
-<a href="#">
-  <img src="https://img.shields.io/badge/CodeChef-Add_Profile-5B4638?style=for-the-badge" />
-</a>
-
-<a href="#">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Add_Profile-0F9D58?style=for-the-badge" />
-</a>
 
 </div>
 
@@ -219,6 +205,15 @@ with your real repositories.
 
 ---
 
+## Contribution Snake Animation
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Partho-Kumar-Shaw/Partho-Kumar-Shaw/output/snake.svg" alt="snake animation" />
+</p>
+
+---
+
 ## Contact
 
 <div align="center">
@@ -237,27 +232,10 @@ with your real repositories.
 
 </div>
 
----
-
-## Contribution Snake Animation
-
-Create this file:
-
-```bash
-.github/workflows/snake.yml
-```
-
-Then add:
-
-```md
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Partho-Kumar-Shaw/Partho-Kumar-Shaw/output/snake.svg" alt="snake animation" />
-</p>
-```
 
 ---
 
-## Visitor Counter
+
 
 <div align="center">
 
