@@ -1,6 +1,77 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F4C81,100:5DADE2&height=220&section=header&text=Partho%20Kumar%20Shaw&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Open%20to%20Opportunities&descSize=16&descAlignY=60" />
+<div align="center">
+
+<svg xmlns="http://www.w3.org/2000/svg" width="854" height="320" viewBox="0 0 854 320">
+    <style>
+        .text {
+            font-size: 70px;
+            font-weight: 700;
+            font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif;
+        }
+
+        .desc {
+            font-size: 20px;
+            font-weight: 500;
+            font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif;
+        }
+
+        .text,
+        .desc {
+            animation: fadeIn 1.2s ease-in-out forwards;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+    </style>
+
+    <defs>
+        <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#F00" />
+            <stop offset="50%" stop-color="#F67280" />
+            <stop offset="100%" stop-color="#F00" />
+        </linearGradient>
+    </defs>
+
+    <g transform="translate(427, 160) scale(1, 1) translate(-427, -160)">
+        <path d="" fill="url(#linear)" opacity="0.4">
+            <animate attributeName="d" dur="20s" repeatCount="indefinite"
+                keyTimes="0;0.333;0.667;1"
+                keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+                values="M0 0L 0 240Q 213.5 280 427 250T 854 275L 854 0 Z;
+                        M0 0L 0 265Q 213.5 280 427 260T 854 250L 854 0 Z;
+                        M0 0L 0 285Q 213.5 255 427 285T 854 250L 854 0 Z;
+                        M0 0L 0 240Q 213.5 280 427 250T 854 275L 854 0 Z">
+            </animate>
+        </path>
+
+        <path d="" fill="url(#linear)" opacity="0.4">
+            <animate attributeName="d" dur="20s" repeatCount="indefinite"
+                begin="-10s"
+                keyTimes="0;0.333;0.667;1"
+                keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+                values="M0 0L 0 255Q 213.5 300 427 270T 854 280L 854 0 Z;
+                        M0 0L 0 270Q 213.5 240 427 240T 854 260L 854 0 Z;
+                        M0 0L 0 265Q 213.5 245 427 270T 854 285L 854 0 Z;
+                        M0 0L 0 255Q 213.5 300 427 270T 854 280L 854 0 Z">
+            </animate>
+        </path>
+    </g>
+
+    <text x="50%" y="35%" text-anchor="middle" alignment-baseline="middle"
+        class="text" fill="#ffffff">
+        Partho Kumar Shaw
+    </text>
+
+    <text x="50%" y="60%" text-anchor="middle" alignment-baseline="middle"
+        class="desc" fill="#ffffff">
+        Full Stack Engineer | AIML Engineer
+    </text>
+</svg>
+
+</div>
 
 <br></br>
 
@@ -16,7 +87,7 @@
 <tr>
 <td width="60%" align="left">
 
-<h1>Partho Kumar Shaw</h1>
+<h1 style="text-align:center;">Partho Kumar Shaw</h1>
 
 <h3>Full Stack Developer | AI/ML Enthusiast</h3>
 
