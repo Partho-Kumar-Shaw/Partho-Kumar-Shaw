@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=420&color=0:0f0000,40:2b0000,75:5c0000,100:000000&text=&animation=fadeIn" width="100%"/>
+
 
 <table>
 <tr>
