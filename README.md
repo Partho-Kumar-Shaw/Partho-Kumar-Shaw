@@ -6,9 +6,9 @@
 
 <br><br>
 
-<img src="./assets/parth.png.jpeg" width="170" alt="Partho Kumar Shaw"/>
+<img src="./assets/parth.png.jpeg" width="270" height="200px" alt="Partho Kumar Shaw"/>
 
-<br><br>
+
 
 <a href="mailto:parthokumarshaw@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-0F4C81?style=for-the-badge&logo=gmail&logoColor=white" />
