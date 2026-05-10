@@ -6,32 +6,103 @@
 
 <br><br>
 
-<img src="./assets/parth.png.jpeg" width="270" height="200px" alt="Partho Kumar Shaw"/>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=420&color=0:0f0000,40:2b0000,75:5c0000,100:000000&text=&animation=fadeIn" width="100%"/>
 
+<table>
+<tr>
+<td width="60%" align="left">
 
+<h1>Partho Kumar Shaw</h1>
+
+<h3>Full Stack Developer | AI/ML Enthusiast</h3>
+
+<p>
+Building scalable web applications, AI-powered products, and solving real-world problems with modern technologies.
+</p>
+
+<br>
+
+<table>
+<tr>
+<td><b>📧 Email</b></td>
+<td>
 <a href="mailto:parthokumarshaw@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-0F4C81?style=for-the-badge&logo=gmail&logoColor=white" />
+parthokumarshaw@gmail.com
 </a>
+</td>
+</tr>
 
+<tr>
+<td><b>💻 GitHub</b></td>
+<td>
 <a href="https://github.com/Partho-Kumar-Shaw">
-  <img src="https://img.shields.io/badge/GitHub-Profile-24292F?style=for-the-badge&logo=github&logoColor=white" />
+github.com/Partho-Kumar-Shaw
 </a>
+</td>
+</tr>
 
+<tr>
+<td><b>🔗 LinkedIn</b></td>
+<td>
 <a href="https://www.linkedin.com/in/parthokumarshaw/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+linkedin.com/in/parthokumarshaw
 </a>
+</td>
+</tr>
 
+<tr>
+<td><b>🌐 Portfolio</b></td>
+<td>
 <a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-Coming_Soon-5DADE2?style=for-the-badge&logo=vercel&logoColor=white" />
+Coming Soon
 </a>
+</td>
+</tr>
 
+<tr>
+<td><b>📄 Resume</b></td>
+<td>
 <a href="#">
-  <img src="https://img.shields.io/badge/Resume-Add_Link-1E8449?style=for-the-badge&logo=readthedocs&logoColor=white" />
+Add Resume Link
 </a>
+</td>
+</tr>
+
+<tr>
+<td><b>🧠 LeetCode</b></td>
+<td>
+<a href="#">
+Add Profile
+</a>
+</td>
+</tr>
+
+</table>
+
+<br>
+
+<p>
+<img src="https://img.shields.io/badge/Open%20to-Internships-darkred?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open%20to-Collaboration-black?style=for-the-badge" />
+</p>
+
+</td>
+
+<td width="40%" align="center">
+
+<img 
+src="./assets/parth.png.jpeg" 
+alt="Partho Kumar Shaw"
+width="360"
+/>
+
+</td>
+</tr>
+</table>
 
 </div>
-
 ---
 
 ## Professional Summary
