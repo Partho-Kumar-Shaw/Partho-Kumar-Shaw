@@ -159,20 +159,27 @@ Availability: Open to internships & collaborations
 - Problem Solving
 
 ---
-
 ## GitHub Analytics
 
 <div align="center">
 
+<table>
+<tr>
+<td>
 <img
 height="170"
 src="https://github-readme-stats-sigma-five.vercel.app/api?username=Partho-Kumar-Shaw&show_icons=true&theme=github_light&hide_border=true&include_all_commits=true&count_private=true"
 />
+</td>
 
+<td>
 <img
 height="170"
 src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Partho-Kumar-Shaw&layout=compact&theme=github_light&hide_border=true&langs_count=8"
 />
+</td>
+</tr>
+</table>
 
 </div>
 
