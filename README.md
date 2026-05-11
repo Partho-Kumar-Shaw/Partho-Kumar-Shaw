@@ -88,8 +88,13 @@ Add Profile
 <br>
 
 <p>
-<img src="https://img.shields.io/badge/Open%20to-Internships-darkred?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Open%20to-Collaboration-black?style=for-the-badge" />
+  <a href="mailto:parthokumarshaw@gmail.com?subject=Internship%20Opportunity%20for%20Partho&body=Hi%20Partho,%0A%0AI%20came%20across%20your%20GitHub%20profile%20and%20would%20like%20to%20connect%20regarding%20an%20opportunity.%0A%0ACompany%20Name:%20%0ARole:%20%0ALocation:%20%0A%0ABest%20regards,">
+    <img src="https://img.shields.io/badge/Open%20to-Internships-darkred?style=for-the-badge" />
+  </a>
+
+  <a href="mailto:parthokumarshaw@gmail.com?subject=Collaboration%20Opportunity&body=Hi%20Partho,%0A%0AI%20saw%20your%20GitHub%20profile%20and%20would%20like%20to%20discuss%20a%20collaboration.%0A%0AProject%20Details:%20%0ATimeline:%20%0A%0ABest%20regards,">
+    <img src="https://img.shields.io/badge/Open%20to-Collaboration-black?style=for-the-badge" />
+  </a>
 </p>
 
 </td>
