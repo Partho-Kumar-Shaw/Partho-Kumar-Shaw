@@ -6,7 +6,7 @@
 
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=24&duration=3000&pause=1200&color=fff&center=true&vCenter=true&width=900&lines=Building+Scalable+Web+Applications;MERN+Stack+Developer;Machine+Learning+Explorer;Problem+Solver+%7C+Fast+Learner" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=700&size=29&duration=3000&pause=1200&color=fff&center=true&vCenter=true&width=900&lines=Building+Scalable+Web+Applications;MERN+Stack+Developer;Machine+Learning+Explorer;Problem+Solver+%7C+Fast+Learner" />
 
 <br><br>
 
