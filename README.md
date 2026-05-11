@@ -164,9 +164,15 @@ Availability: Open to internships & collaborations
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Partho-Kumar-Shaw&show_icons=true&theme=default&hide_border=true&include_all_commits=true" />
+<img 
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=Partho-Kumar-Shaw&show_icons=true&theme=github_light&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"
+/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Partho-Kumar-Shaw&layout=compact&theme=default&hide_border=true" />
+<img 
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Partho-Kumar-Shaw&layout=compact&theme=github_light&hide_border=true&langs_count=8&cache_seconds=1800"
+/>
 
 </div>
 
