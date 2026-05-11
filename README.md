@@ -18,7 +18,7 @@
 <tr>
 <td width="60%" align="left">
 
-<h1 >Partho Kumar Shaw</h1>
+<h1 align="center" >Partho Kumar Shaw</h1>
 
 <h3>Full Stack Developer | AI/ML Enthusiast</h3>
 
