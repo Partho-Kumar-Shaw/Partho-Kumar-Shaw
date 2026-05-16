@@ -69,7 +69,7 @@ Coming Soon
 <td><b>📄 Resume</b></td>
 <td>
 <a href="./assets/parth_resume.pdf" download>
-  <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Resume-View-blue?style=for-the-badge" />
 </a>
 </td>
 </tr>
