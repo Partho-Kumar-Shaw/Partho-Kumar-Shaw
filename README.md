@@ -74,14 +74,14 @@ Coming Soon
 </td>
 </tr>
 
-<tr>
+<!-- <tr>
 <td><b>🧠 LeetCode</b></td>
 <td>
 <a href="#">
 Add Profile
 </a>
 </td>
-</tr>
+</tr> -->
 
 </table>
 
