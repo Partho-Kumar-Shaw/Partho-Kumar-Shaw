@@ -56,20 +56,21 @@ linkedin.com/in/parthokumarshaw
 </td>
 </tr>
 
-<tr>
-<td><b>🌐 Portfolio</b></td>
-<td>
-<a href="#">
-Coming Soon
-</a>
-</td>
-</tr>
+
 
 <tr>
 <td><b>📄 Resume</b></td>
 <td>
 <a href="./assets/parth_resume.pdf" download>
   <img src="https://img.shields.io/badge/Resume-View-blue?style=for-the-badge" />
+</a>
+</td>
+</tr>
+<tr>
+<td><b>🌐 Portfolio</b></td>
+<td>
+<a href="#">
+Coming Soon
 </a>
 </td>
 </tr>
