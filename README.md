@@ -194,7 +194,7 @@ src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=P
 ## Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Partho-Kumar-Shaw&theme=default&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Partho-Kumar-Shaw&theme=default&hide_border=true&type=png" />
 </p>
 
 ---
