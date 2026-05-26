@@ -70,7 +70,7 @@ linkedin.com/in/parthokumarshaw
 <td><b>🌐 Portfolio</b></td>
 <td>
 <a href="#">
-Coming Soon
+Coming Soon...
 </a>
 </td>
 </tr>
