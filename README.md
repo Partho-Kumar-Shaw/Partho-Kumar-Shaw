@@ -69,7 +69,7 @@ linkedin.com/in/parthokumarshaw
 <tr>
 <td><b>🌐 Portfolio</b></td>
 <td>
-<a href="#">
+<a href="https://partho-portfolio-xi.vercel.app/">
 Coming Soon...
 </a>
 </td>
