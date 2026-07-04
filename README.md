@@ -69,7 +69,7 @@ linkedin.com/in/parthokumarshaw
 <tr>
 <td><b>🌐 Portfolio</b></td>
 <td>
-<a href="https://partho-portfolio-xi.vercel.app/">
+<a href="https://partho-portfolio-xi.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/View-Portfolio-blue?style=for-the-badge" />
 </a>
 </td>
