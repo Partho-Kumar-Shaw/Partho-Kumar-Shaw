@@ -272,7 +272,7 @@ Built using:
 <div align="center">
 
 <a href="#">
-  <img src="https://img.shields.io/badge/LeetCode-Add_Profile-orange?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/LeetCode-Soon-orange?style=for-the-badge&logo=leetcode" />
 </a>
 
 
