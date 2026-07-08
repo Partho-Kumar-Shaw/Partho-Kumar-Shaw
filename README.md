@@ -346,7 +346,7 @@ Built using:
 
 <div align="center">
 
-### Building Technology That Solves Real Problems
+### Building Technology That Solves Real Problems...
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F4C81,100:5DADE2&height=90&section=footer" />
 
