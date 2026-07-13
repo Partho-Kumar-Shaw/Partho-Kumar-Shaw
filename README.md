@@ -348,5 +348,4 @@ Built using:
 
 ### Building Technology That Solves Real Problems...
 
-![](https://capsule-render.vercel.app/api?type=waving&color=0:0F4C81,100:5DADE2&height=120&section=footer)
-</div>
+![](https://capsule-render.vercel.app/api?type=waving&color=0:dc2626,50:f67280,100:dc2626&height=120&section=footer)</div>
