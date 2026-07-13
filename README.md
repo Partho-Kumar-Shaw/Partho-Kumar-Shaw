@@ -266,7 +266,7 @@ Built using:
 </div>
 
 ---
-
+<!--  SOON I WILL ADD THIS 
 ## Coding Profiles
 
 <div align="center">
@@ -278,7 +278,7 @@ Built using:
 
 
 </div>
-
+-->
 ---
 
 ## Currently Learning
