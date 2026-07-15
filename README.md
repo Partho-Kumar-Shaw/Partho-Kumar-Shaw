@@ -317,7 +317,7 @@ Built using:
 
 <div align="center">
 
-<a href="mailto:parthokumarshaw@gmail.com">
+<a href="mailto:parthokumarshaw@gmail.com?subject=Internship%20Opportunity%20for%20Partho&body=Hi%20Partho,%0A%0AI%20came%20across%20your%20GitHub%20profile%20and%20would%20like%20to%20connect%20regarding%20an%20opportunity.%0A%0ACompany%20Name:%20%0ARole:%20%0ALocation:%20%0A%0ABest%20regards,">
   <img src="https://img.shields.io/badge/Gmail-parthokumarshaw%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 
