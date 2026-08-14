@@ -174,7 +174,7 @@ Availability: Open to internships & collaborations
 <td>
 <img
 height="170"
-src="https://github-readme-stats-sigma-five.vercel.app/api?username=Partho-Kumar-Shaw&show_icons=true&theme=github_light&hide_border=true&include_all_commits=true&count_private=true"
+src="https://github-stats-extended.vercel.app/api?username=Partho-Kumar-Shaw&show_icons=true&theme=github_light&hide_border=true&include_all_commits=true&count_private=true"
 />
 </td>
 
