@@ -208,12 +208,17 @@ src="https://github-stats-extended.vercel.app/api/top-langs/?username=Partho-Kum
 
 ---
 
-## Achievements
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Partho-Kumar-Shaw&theme=flat&no-frame=true&margin-w=12" alt="GitHub Trophies" />
-</div>
+## 🏆 GitHub Trophies
 
+<p align="center">
+  <a href="https://github.com/Partho-Kumar-Shaw">
+    <img
+      src="https://github-trophies.vercel.app/?username=Partho-Kumar-Shaw"
+      alt="GitHub Trophies"
+    />
+  </a>
+</p>
 
 ---
 
