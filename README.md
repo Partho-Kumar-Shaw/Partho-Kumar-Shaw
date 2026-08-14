@@ -217,52 +217,58 @@ src="https://github-stats-extended.vercel.app/api/top-langs/?username=Partho-Kum
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### ReadSmart — Book Recommendation System
-**Tech Stack:** Python, Flask, Bootstrap, Machine Learning
-
-Features:
-- Book recommendation engine
-- Data preprocessing
-- Recommendation logic implementation
-- User-friendly web interface
-
----
-
-### Smart India Hackathon Project
-**Multilingual AI Application**
-
-Built using:
-- OpenAI API
-- NLP concepts
-- Team collaboration
-- Problem-solving approach
-
----
-
-## Featured Projects
-
-<div align="center">
 <table>
 <tr>
-<td>
-<a href="https://github.com/Partho-Kumar-Shaw/boom-blockers-games">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Partho-Kumar-Shaw&repo=boom-blockers-games&theme=github_light&hide_border=true" alt="Boom Blockers Games"
- />
-</a>
+<td width="55%" valign="top">
+
+### 📚 ReadSmart — Book Recommendation System
+
+**Tech Stack:** Python, Flask, Bootstrap, Machine Learning
+
+#### ✨ Features
+- 📖 Book recommendation engine
+- 🧹 Data preprocessing and cleaning
+- 🤖 Recommendation logic implementation
+- 🌐 User-friendly web interface
+- 🎯 Personalized book suggestions
+
 </td>
-<td>
-<a href="https://github.com/Partho-Kumar-Shaw/TradeVeda">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Partho-Kumar-Shaw&repo=TradeVeda&theme=github_light&hide_border=true" alt='TradeVeda'
- />
-</a>
+
+<td width="45%" align="center">
+
+<a href="https://github.com/Partho-Kumar-Shaw/boom-blockers-games"> 
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=Partho-Kumar-Shaw&repo=boom-blockers-games&theme=github_light&hide_border=true" alt="Boom Blockers Games" /> 
 </a>
 </td>
 </tr>
-</table>
 
-</div>
+<tr>
+<td width="45%" align="center">
+
+<a href="https://github.com/Partho-Kumar-Shaw/TradeVeda"> 
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=Partho-Kumar-Shaw&repo=TradeVeda&theme=github_light&hide_border=true" alt='TradeVeda' /> 
+</a>
+</td>
+
+<td width="55%" valign="top">
+
+### 🇮🇳 Smart India Hackathon — Multilingual AI Application
+
+**Tech Stack:** OpenAI API, NLP, Python
+
+#### ✨ Features
+- 🌍 Multilingual AI interaction
+- 🤖 OpenAI API integration
+- 🧠 NLP-based processing
+- 👥 Team collaboration
+- 💡 Problem-solving and innovation
+- ⚡ AI-powered application workflow
+
+</td>
+</tr>
+</table>
 
 ---
 <!--  SOON I WILL ADD THIS 
