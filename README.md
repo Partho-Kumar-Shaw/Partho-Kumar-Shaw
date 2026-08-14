@@ -252,10 +252,10 @@ Built using:
  />
 </a>
 </td>
-
 <td>
 <a href="https://github.com/Partho-Kumar-Shaw/TradeVeda">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Partho-Kumar-Shaw&repo=TradeVeda" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Partho-Kumar-Shaw&repo=TradeVeda&theme=github_light&hide_border=true" alt='TradeVeda'
+ />
 </a>
 </a>
 </td>
