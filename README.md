@@ -244,12 +244,12 @@ Built using:
 ## Featured Projects
 
 <div align="center">
-
 <table>
 <tr>
 <td>
 <a href="https://github.com/Partho-Kumar-Shaw/boom-blockers-games">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Partho-Kumar-Shaw&repo=boom-blockers-games" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Partho-Kumar-Shaw&repo=boom-blockers-games&theme=github_light&hide_border=true" alt="Boom Blockers Games"
+ />
 </a>
 </td>
 
