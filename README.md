@@ -138,7 +138,7 @@ Name: Partho Kumar Shaw
 Role: Full Stack Developer | AI/ML Learner
 University: LNCT University
 Degree: B.Tech CSE (AI/ML)
-Current CGPA: 7.84
+Current CGPA: 7.98
 Graduation: 2028
 Location: India
 Availability: Open to internships & collaborations
@@ -244,7 +244,7 @@ src="https://github-stats-extended.vercel.app/api/top-langs/?username=Partho-Kum
 <td width="45%" align="center">
 
 <a href="https://github.com/Partho-Kumar-Shaw/boom-blockers-games"> 
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=Partho-Kumar-Shaw&repo=boom-blockers-games&theme=github_light&hide_border=true" alt="Boom Blockers Games" /> 
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=Partho-Kumar-Shaw&repo=ReadSmart---A-Book-Recommender&theme=github_light&hide_border=true" alt="ReadSmart---A-Book-Recommender" /> 
 </a>
 </td>
 </tr>
