@@ -243,7 +243,7 @@ src="https://github-stats-extended.vercel.app/api/top-langs/?username=Partho-Kum
 
 <td width="45%" align="center">
 
-<a href="https://github.com/Partho-Kumar-Shaw/boom-blockers-games"> 
+<a href="https://github.com/Partho-Kumar-Shaw/ReadSmart---A-Book-Recommender"> 
 <img src="https://github-stats-extended.vercel.app/api/pin/?username=Partho-Kumar-Shaw&repo=ReadSmart---A-Book-Recommender&theme=github_light&hide_border=true" alt="ReadSmart---A-Book-Recommender" /> 
 </a>
 </td>
