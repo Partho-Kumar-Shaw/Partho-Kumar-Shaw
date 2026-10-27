@@ -228,7 +228,8 @@ src="https://github-stats-extended.vercel.app/api/top-langs/?username=Partho-Kum
 <tr>
 <td width="55%" valign="top">
 
-### 📚 ReadSmart — Book Recommendation System
+<a href="https://readsmart-ai-omega.vercel.app/">### 📚 ReadSmart — Book Recommendation System</a>
+
 
 **Tech Stack:** Python, Flask, Bootstrap, Machine Learning
 
