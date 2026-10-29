@@ -1,9 +1,10 @@
 <div align="center">
 
-<p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Banner"/>
-</p>
-
+<a href="https://github.com/Partho-Kumar-Shaw">
+  <p align="center">
+    <img src="./assets/banner.svg" width="100%" alt="Banner"/>
+  </p>
+</a>
 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=700&size=29&duration=3000&pause=1200&color=fff&center=true&vCenter=true&width=900&lines=Building+Scalable+Web+Applications;MERN+Stack+Developer;Machine+Learning+Explorer;Problem+Solver+%7C+Fast+Learner" />
